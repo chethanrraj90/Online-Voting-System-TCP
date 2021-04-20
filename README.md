@@ -7,7 +7,7 @@
 
 This is an online vote casting system using **TCP multithreaded server-client program**. The voters will log on from client systems and cast their votes. 
 
-## Description
+## Description.
 System should be secure and should only allow clients with authentic name and CNIC to cast the vote.
 
 • A list of registered voters is available in a text file in the following format: **Name/CNIC number**
